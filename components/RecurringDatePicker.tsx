@@ -245,7 +245,6 @@ function getNthWeekdayOfMonth(
   nth: number,
   weekday: number
 ): Date {
-  const firstDay = new Date(year, month, 1);
   let count = 0;
   let day = 1;
 
