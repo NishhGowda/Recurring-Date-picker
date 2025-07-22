@@ -32,15 +32,6 @@ A modern, customizable **Recurring Date Picker** built using **Next.js 15**, **T
 
 ## 📁 Project Structure
 
-
----
-
-## 🖼️ Preview
-
-> You can optionally add a screenshot here if available.  
-> Uploded Screenshot 🖼️ Preview <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81907fa4-1e13-45a1-8f6e-b4c2c45939db" />
-
-
 ---
 
 ## 🚀 Getting Started Locally
