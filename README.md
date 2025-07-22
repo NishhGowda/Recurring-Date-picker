@@ -31,6 +31,22 @@ A modern, customizable **Recurring Date Picker** built using **Next.js 15**, **T
 ---
 
 ## 📁 Project Structure
+recurring-picker/
+├── app/
+│   ├── layout.tsx                 # Root layout for the app
+│   ├── page.tsx                   # Homepage
+│   └── recurring/
+│       └── page.tsx               # Recurring Date Picker page
+├── components/
+│   └── RecurringDatePicker.tsx   # Main date picker component
+├── public/                        # Static assets (images, icons)
+├── styles/                        # (Optional) Global CSS if needed
+├── tailwind.config.ts            # Tailwind CSS configuration
+├── postcss.config.js             # PostCSS configuration
+├── tsconfig.json                 # TypeScript configuration
+├── next.config.js                # Next.js configuration
+├── package.json                  # Project metadata and dependencies
+└── README.md                     # Project overview and instructions
 
 ---
 
