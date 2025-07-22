@@ -6,8 +6,7 @@ A modern, customizable **Recurring Date Picker** built using **Next.js 15**, **T
 
 ## 🔗 Live Demo
 
-👉 [Click here to try it out]((https://recurring-date-picker-qe99.vercel.app/))
-
+👉 [Try the Recurring Date Picker](https://recurring-date-picker-qe99.vercel.app/)
 ---
 
 ## ✨ Features
